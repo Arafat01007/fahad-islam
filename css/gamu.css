@@ -6,3 +6,11 @@
     background-image: linear-gradient(yellow,orange);
 
 }
+.fahad{
+    
+    display: flex;
+    border-radius: 90%;
+}
+body{
+    background-color: bisque;
+}
