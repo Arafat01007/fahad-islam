@@ -1,4 +1,24 @@
 label{
-    display: block;
+    display: block ;
     margin: 10px;
 }
+td,th{
+    border: 1px solid black;
+ 
+}
+ table{ 
+     border-collapse: collapse;
+     padding: 5px 10px;
+     background-color: rgb(255, 196, 196);
+     color: black;
+ }
+ .hand{
+    text-decoration: none;
+    padding: 10px 40px;
+    border-radius: 10px;
+    background-image: linear-gradient(blue,blueviolet);
+    color: white;
+ }
+ body{
+    background-color: burlywood;
+ }
